@@ -1,10 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola+Mundo!+👋;Soy+%5BTu+Nombre%5D+💻;¡Bienvenido+a+mi+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola+Mundo!+👋;I am +%5BJhoe+Alvarez%5D+💻;¡Bienvenido+a+mi+perfil!" />
 </h1>
 
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Desarrollador%20Creativo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
 </div>
 
