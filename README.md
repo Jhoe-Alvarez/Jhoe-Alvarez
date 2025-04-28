@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola+Mundo!+👋;I am +%5BJhoe+Alvarez%5D+💻;¡Bienvenido+a+mi+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola+Mundo!+👋;I+am+%5BJhoe+Alvarez%5D+💻;¡Bienvenido+a+mi+perfil!" />
 </h1>
 
 <div align="center">
