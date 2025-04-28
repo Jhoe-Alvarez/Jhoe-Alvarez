@@ -1,135 +1,143 @@
-# <div align="center">✨ Bienvenido a mi GitHub ✨</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</p>
+
+<h1 align="center">Hi there! I'm Jhoe Alvarez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Systems+Engineering+Student;Data+Analysis+Enthusiast;Continuous+Learner" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:41B883&height=120&section=header&text=&fontSize=0" width="100%"/>
+  <a href="https://www.linkedin.com/in/jhoealvarez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jhoealvarez055@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+  <a href="https://jhoe-alvarez.dev"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&repeat=false&width=435&lines=Hola%2C+soy+%5BTu+Nombre%5D+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-  <p><em>Desarrollador Full Stack apasionado por crear soluciones tecnológicas innovadoras</em></p>
-</div>
+<hr>
 
-## <div align="center">👨‍💻 Sobre Mí</div>
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> **About Me**
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <ul>
-          <li>🔭 Actualmente trabajo en <b>proyectos de desarrollo web</b></li>
-          <li>🌱 Estoy aprendiendo <b>IA y Machine Learning</b></li>
-          <li>💡 Me interesa <b>la arquitectura de software y DevOps</b></li>
-          <li>📫 Contacto: <b>tucorreo@ejemplo.com</b></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>🚀 Buscando colaborar en <b>proyectos open source</b></li>
-          <li>💬 Pregúntame sobre <b>JavaScript, React, Node.js</b></li>
-          <li>🌐 Mi sitio web: <b>tudominio.com</b></li>
-          <li>⚡ Dato curioso: <b>Toco la guitarra/hago fotografía/etc.</b></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+<picture><img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250px"></picture>
 
-## <div align="center">🛠️ Tecnologías y Herramientas</div>
+- 🎓 I'm currently studying **Systems Engineering**
+- 📊 Passionate about **Data Analysis and Business Intelligence**
+- 🌱 Learning **Machine Learning and Statistical Analysis**
+- 💼 Working on building my **Data Science portfolio**
+- 🔍 Always exploring new technologies and methodologies
+- 📝 I regularly practice with **data challenges and competitions**
+- 📫 How to reach me: **jhoealvarez055@gmail.com**
+
+<hr>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> **Skills**  
 
 <div align="center">
-  <h4>Lenguajes</h4>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   
-  <h4>Frameworks & Librerías</h4>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  ### Languages
   
-  <h4>Bases de Datos & DevOps</h4>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  
+  ### Data Analysis & Visualization
+  
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  
+  ### Databases
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  
+  ### Tools & Technologies
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
-## <div align="center">📊 Estadísticas</div>
+<hr>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" width="48%" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=vue-dark&hide_border=true" width="48%" alt="Racha de GitHub" />
-</div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Analytics**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=vue-dark&hide_border=true" width="58%" alt="Lenguajes más usados" />
-</div>
-
-## <div align="center">🏆 Proyectos Destacados</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Proyecto 1</h3>
-        <div align="center">
-          <a href="https://github.com/TuUsuario/proyecto1" target="_blank">
-            <img src="https://dummyimage.com/600x300/41B883/ffffff&text=Proyecto+1" width="100%" alt="Proyecto 1"/>
-          </a>
-          <p>
-            <a href="https://github.com/TuUsuario/proyecto1" target="_blank">
-              <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-            </a>
-            <a href="https://tuusuario-proyecto1.vercel.app/" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-5468FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>JavaScript, React, Node.js, MongoDB</strong> - Una aplicación web que permite a los usuarios...</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Proyecto 2</h3>
-        <div align="center">
-          <a href="https://github.com/TuUsuario/proyecto2" target="_blank">
-            <img src="https://dummyimage.com/600x300/5468FF/ffffff&text=Proyecto+2" width="100%" alt="Proyecto 2"/>
-          </a>
-          <p>
-            <a href="https://github.com/TuUsuario/proyecto2" target="_blank">
-              <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-            </a>
-            <a href="https://tuusuario-proyecto2.vercel.app/" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-5468FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>TypeScript, React, Express, PostgreSQL</strong> - Un sistema que facilita...</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## <div align="center">📬 Conéctate Conmigo</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://github.com/TuUsuario">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=algolia"/>
   </a>
-  <a href="https://twitter.com/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
+
+<hr>
+
+## <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30"> **Featured Projects**
+
+<div align="center">
+  <a href="https://github.com/TuUsuario/sales-data-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuUsuario&repo=sales-data-analysis&theme=algolia" alt="Data Analysis Project" />
   </a>
-  <a href="mailto:tucorreo@ejemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://tudominio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-41B883?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  <a href="https://github.com/TuUsuario/customer-segmentation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuUsuario&repo=customer-segmentation&theme=algolia" alt="Customer Segmentation" />
   </a>
 </div>
 
-<br>
+<div align="center">
+  <a href="https://github.com/TuUsuario/predictive-analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuUsuario&repo=predictive-analytics&theme=algolia" alt="Predictive Analytics" />
+  </a>
+  <a href="https://github.com/TuUsuario/data-visualization-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuUsuario&repo=data-visualization-dashboard&theme=algolia" alt="Dashboard" />
+  </a>
+</div>
+
+<hr>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> **Currently Working On**
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:41B883&height=120&section=footer&text=&fontSize=0" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
+  <p><strong>Building a comprehensive data analysis portfolio and enhancing my skills in machine learning algorithms</strong></p>
 </div>
+
+<hr>
+
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50"> **Connect With Me**
+
+<div align="center">
+  <a href="[https://www.linkedin.com/in/jhoe-alvarez](https://www.linkedin.com/in/jhoealvarez/)">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+  </a>
+  <a href="https://twitter.com/jhoe_alvarez">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
+  </a>
+  <a href="mailto:jhoealvarez055@gmail.com">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
+  </a>
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TuUsuario&style=for-the-badge&color=0969DA" alt="Profile Views">
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" width="100%">
+</p>
