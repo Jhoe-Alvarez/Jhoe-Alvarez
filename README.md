@@ -118,7 +118,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50"> **Connect With Me**
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/jhoe-alvarez](https://www.linkedin.com/in/jhoealvarez/)">
+  <a href="https://www.linkedin.com/in/jhoealvarez/">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
   <a href="https://twitter.com/jhoe_alvarez">
