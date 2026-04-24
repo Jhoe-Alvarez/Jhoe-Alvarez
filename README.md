@@ -75,8 +75,6 @@ Combino análisis de datos, machine learning y desarrollo de aplicaciones para c
 
 ---
 
----
-
 ## 💼 Experiencia Profesional
 
 ### 🏢 Polyline SAC — Pasantía · Lima, Perú
@@ -153,6 +151,7 @@ Combino análisis de datos, machine learning y desarrollo de aplicaciones para c
 
 **Stack:** `Python` `Pandas` `SQL` `Power BI` `Matplotlib` `Jupyter`  
 **🔗 GitHub:** [data-pipeline-retail](https://github.com/Jhoe-Alvarez/data-pipeline-retail)
+
 ---
 
 ## 📊 GitHub Analytics
