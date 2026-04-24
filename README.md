@@ -75,23 +75,84 @@ Combino análisis de datos, machine learning y desarrollo de aplicaciones para c
 
 ---
 
+---
+
+## 💼 Experiencia Profesional
+
+### 🏢 Polyline SAC — Pasantía · Lima, Perú
+**Inmobiliaria, Construcción e Ingeniería** · *Marzo 2025 – Julio 2025*
+
+| Métrica | Resultado |
+|---|---|
+| 🗓 Citas gestionadas/mes | **50+** con 0% pérdida de datos |
+| ⚡ Reducción carga repetitiva | **−20%** tareas automatizadas |
+| ⏱ Horas ahorradas al equipo | **10+ horas/mes** |
+| 🔍 Registros scraping procesados | **+1,000** competidores analizados |
+
+- Desarrollé sistema de citas **end-to-end** (Firebase + Google Sheets) con sincronización en tiempo real
+- Automaticé flujos de marketing con IA, reduciendo un **20%** la carga de tareas repetitivas
+- Ejecuté web scraping de mercado para identificar tendencias de precios y clientes potenciales
+
+---
+
 ## 🔨 Proyectos Destacados
 
-### 📊 Data Pipeline Retail
-Sistema de procesamiento de datos para análisis de ventas.
-- Limpieza y transformación de datos | Automatización ETL | Análisis exploratorio  
-**Stack:** `Python` `Pandas` `SQL` · 🚧 En desarrollo
+### 📈 Predicción de Riesgo de Default Financiero · ✅ Completado
+**Credit Scoring · Machine Learning · Metodología CRISP-DM**
 
-### 📈 Customer Segmentation (ML)
-Modelo de segmentación de clientes usando clustering K-Means.
-- Análisis de comportamiento | Modelos de ML | Visualización de insights  
-**Stack:** `Python` `Scikit-Learn` `Matplotlib` · ✅ Completado
+> Modelo predictivo para estimar probabilidad de impago en clientes financieros.
 
-### 🌐 Web App — E-commerce Dashboard
-Aplicación web completa con integración de datos y frontend dinámico.
-- Frontend dinámico | Consumo de APIs | Conexión a base de datos  
-**Stack:** `React` `Node.js` `MySQL` · 🚧 En desarrollo
+| Métrica | Resultado |
+|---|---|
+| 🎯 Recall en detección de morosidad | **68.5%** |
+| 🧹 Data recuperada (imputación) | **+15%** |
+| ⚖️ Técnica de balanceo | Undersampling |
 
+- Procesé y limpié dataset financiero aplicando técnicas de imputación que recuperaron el **15% de data** incompleta
+- Implementé balanceo de clases (Undersampling) logrando **Recall del 68.5%** en detección de impago
+- Seguí metodología **CRISP-DM** end-to-end: comprensión del negocio → modelado → evaluación
+
+**Stack:** `Python` `Pandas` `Scikit-learn` `Imbalanced-learn` `Google Colab`  
+**🔗 GitHub:** [CreditScoring_Machine_learning](https://github.com/Jhoe-Alvarez/CreditScoring_Machine_learning)
+
+---
+
+### 🌐 Plataforma E-commerce "Tiendas Mass" · ✅ Completado
+**Full Stack · Arquitectura Cloud Azure · Seguridad JWT**
+
+> Plataforma de gestión e-commerce con arquitectura escalable en Azure.
+
+| Métrica | Resultado |
+|---|---|
+| 👥 Usuarios concurrentes soportados | **+200** (picos simulados) |
+| ⚡ Mejora tiempo de respuesta | **−40%** con TypeORM optimizado |
+| 🔐 Seguridad | Autenticación JWT implementada |
+
+- Diseñé arquitectura escalable en Azure (App Service + MySQL Flexible Server)
+- Optimicé queries con **TypeORM**, reduciendo tiempo de respuesta en **40%**
+- Implementé autenticación **JWT** para control de acceso a datos transaccionales
+
+**Stack:** `React` `TypeScript` `Node.js` `MySQL` `Azure` `TypeORM`  
+**🔗 GitHub:** [Tiendas-Mass](https://github.com/Jhoe-Alvarez/Tiendas-Mass)
+
+---
+
+### 📊 Pipeline de Datos — SQL + Python + Power BI · ✅ Completado
+**ETL Automatizado · KPIs · Dashboard Interactivo**
+
+> Pipeline de datos completo que transforma reportes semanales en insights diarios.
+
+| Métrica | Resultado |
+|---|---|
+| ⏱ Reducción tiempo de reportes | **−30%** |
+| 📅 Frecuencia de decisiones | Semanal → **Diaria** |
+
+- Construí pipeline **ETL automatizado** reduciendo el tiempo de generación de reportes en **30%**
+- Analicé tendencias con Python (Pandas, Matplotlib) y consultas SQL optimizadas
+- Creé dashboards interactivos en **Power BI** con KPIs de ventas y segmentaciones de clientes
+
+**Stack:** `Python` `Pandas` `SQL` `Power BI` `Matplotlib` `Jupyter`  
+**🔗 GitHub:** [data-pipeline-retail](https://github.com/Jhoe-Alvarez/data-pipeline-retail)
 ---
 
 ## 📊 GitHub Analytics
